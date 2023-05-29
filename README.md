@@ -54,7 +54,7 @@ To install the current release, which includes support for
 Windows)*:
 
 ```
-$ pip install tensorflow
+$ pip install tensorflow gokul
 ```
 
 Other devices (DirectX and MacOS-metal) are supported using
